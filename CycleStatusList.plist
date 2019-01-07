@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<string>Ovulatory </string>
+	<string>Anovuatory </string>
+	<string>Pregnant</string>
+	<string>Early Miscarriage</string>
+	<string>Chemical Pregnancy</string>
+</array>
+</plist>
